@@ -3,7 +3,7 @@
 
 ### Демо
 Файлы расположены в https://drive.google.com/drive/folders/1EqmdoR_hC7r6b7EPxGOKlvJpFL7jr7lT?usp=sharing   
-Графики расположены в файле chart.html
+Графики, не имеющие отображения в github расположены в файле chart.html и помечены в коде как "#chart_n"
 
 
 ### Описание проекта    
