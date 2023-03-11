@@ -1,7 +1,7 @@
 # Проект 1. Анализ резюме из HeadHunter
 
 ## Оглавление 
-[1. Демо](.README.md#Демо)
+[1. Демо](.README.md#Демо)   
 [1. Описание проекта](.README.md#Описание-проекта)   
 [2. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
 [3. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
@@ -10,8 +10,8 @@
 
 
 ### Демо
-- Файлы расположены в https://drive.google.com/drive/folders/1EqmdoR_hC7r6b7EPxGOKlvJpFL7jr7lT?usp=sharing
-- Графики расположены в файле chart.html
+Файлы расположены в https://drive.google.com/drive/folders/1EqmdoR_hC7r6b7EPxGOKlvJpFL7jr7lT?usp=sharing   
+Графики расположены в файле chart.html
 
 
 
