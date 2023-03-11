@@ -10,8 +10,8 @@
 
 
 ### Демо
-Файлы расположены в https://drive.google.com/drive/folders/1EqmdoR_hC7r6b7EPxGOKlvJpFL7jr7lT?usp=sharing  \n
-Графики расположены в файле chart.html
+- Файлы расположены в https://drive.google.com/drive/folders/1EqmdoR_hC7r6b7EPxGOKlvJpFL7jr7lT?usp=sharing
+- Графики расположены в файле chart.html
 
 
 
